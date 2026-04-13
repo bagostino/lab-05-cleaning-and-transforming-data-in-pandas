@@ -1,0 +1,22 @@
+order_id,order_date,customer,region,product,quantity,unit_price,channel,status
+1001,2026-01-05,Ava,East,Notebook,2,8.99,Online,Complete
+1002,2026-01-05,Miles,Midwest,Pen,10,1.25,In-Store,Complete
+1003,2026-01-06,Noah, West,Notebook,1,8.99,Online,Complete
+1004,2026-01-06,Ava,East,Backpack,1,,Online,Returned
+1005,2026-01-07,Priya,South,Pen,5,1.25,In-Store,Complete
+1006,2026-01-07,Noah,West,Marker,3,2.5,In-Store,COMPLETE
+1007,2026-01-08,Miles,Midwest,Backpack,2,39.0,Online,Complete
+1007,2026-01-08,Miles,Midwest,Backpack,2,39.0,Online,Complete
+1008,2026-01-08,Ava,,Marker,4,2.5,In-Store,Complete
+1009,01/09/2026,Priya,South,Notebook,2,8.99,Online,Complete
+1010,2026-01-09,Jordan, East,Pen,8,1.25,Online,complete
+1011,2026-01-10,Miles,Midwest ,Binder,3,5.5,In-Store,Complete
+1012,2026-01-10,Sofia,West,Backpack,1,39.0,Online,Complete
+1013,2026-01-11,Ava,East,Binder,2,,In-Store,Complete
+1014,2026-01-11,Jordan,East,Marker,6,2.5,Online,Complete
+1015,2026-01-12,Noah,West,Pen,4,1.25,In-Store,returned
+1016,2026-01-12,Sofia, West,Binder,1,5.5,Online,Complete
+1017,2026-01-13,Priya,South,Backpack,1,39.0,In-Store,Complete
+1018,2026-01-13,Miles,Midwest,Notebook,3,8.99,Online,Complete
+1019,2026-01-14,Ava,East,Pen,12,1.25,In-Store,COMPLETE
+1020,01/14/2026,Jordan,,Binder,2,5.5,Online,Complete
